@@ -1,0 +1,14 @@
+{
+  "HOME_PAGE": {
+    "url": "/"
+  },
+  "LOGIN_PAGE": {
+    "url": "/login"
+  },
+  "FAQ_PAGE": {
+    "url": "/#/QandA"
+  },
+  "ACCOUNT_PAGE": {
+    "url": "/#/account"
+  }
+}
